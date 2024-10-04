@@ -3,7 +3,7 @@
 This is a [Vite](https://vitejs.dev/) template for a simple
 [TinyWidgets](https://tinywidgets.org/) app, using TypeScript.
 
-<img width="847" alt="image" src="https://github.com/user-attachments/assets/27905b32-591b-4a70-b573-7cf063cf51c3">
+<img width="1160" alt="image" src="https://github.com/user-attachments/assets/073a26dc-4212-4ab0-b5a0-d968ac47342c">
 
 ## Instructions
 
