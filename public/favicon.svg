@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="5 2.4 90 90" stroke="#fff" stroke-width="4" stroke-linecap="round"
+  stroke-linejoin="round">
+  <path d="M30 52.36l20 10v22.36l-20-10V52.36" fill="oklch(30% .1 240)" />
+  <path d="M50 62.36l20-10v22.36l-20 10V62.36" fill="oklch(50% .1 240)" />
+  <path d="M10 20l20-10 20 10-20 10-20-10" fill="oklch(70% .1 240)" />
+  <path d="M30 30l20-10 20 10-20 10-20-10" fill="oklch(70% .1 240)" />
+  <path d="M50 20l20-10 20 10-20 10-20-10" fill="oklch(70% .1 240)" />
+  <path d="M10 20l20 10v22.36l-20-10V20M30 30l20 10v22.36l-20-10V30" fill="oklch(30% .1 240)" />
+  <path d="M50 40l20-10v22.36l-20 10V40M70 30l20-10v22.36l-20 10V30" fill="oklch(50% .1 240)" />
+</svg>
