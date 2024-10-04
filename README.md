@@ -31,7 +31,9 @@ npm install
 npm run dev
 ```
 
-5. Go the URL shown and enjoy!
+5. The Vite server should start up. Go the URL shown and enjoy!
+
+Note that you can also create a production build with `npm run build`.
 
 ## License
 
